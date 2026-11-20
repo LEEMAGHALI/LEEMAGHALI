@@ -1,4 +1,4 @@
-# Hi, I'm Halimatu Mohammed Gali 👋
+# Hi, I'm Halimatu Mohammed Gali 
 
 ### Software Developer | Frontend • Backend • Full-Stack Development
 
